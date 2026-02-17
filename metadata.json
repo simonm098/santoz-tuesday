@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Santos Motors- Auto Parts",
+  "description": "Premium automotive spare parts dealer located on Kirinyaga Road, Kenya. Specialists in gearboxes, engines, suspension, and body parts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
